@@ -16,7 +16,7 @@ from ultralytics import YOLO
 # If you upload best_model.pt as a GitHub Release asset, paste its direct
 # download URL here (Release page -> right-click the asset -> Copy link).
 # Leave empty if best_model.pt is already committed next to this file.
-MODEL_URL = ""
+MODEL_URL = "https://github.com/Shahdahmedhassan/Road-Image-Detection/releases/download/v1.0/best_model.pt"
 
 # ----------------------------------------------------------------------------
 # PAGE CONFIG
